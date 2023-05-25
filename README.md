@@ -7,5 +7,5 @@ O primeiro desafio é aplicação do **Método Twist** para codificação e deco
 `nb_challenge1_python.ipynb`: notebook com enunciado e solução passo a passo.<br>
 `script_solution1.py`: script com a solução do problema. 
 ## |Git/Versionamento new
-# Salvando Modificações no Git (Usando o Log
+# Salvando Modificações no Git (Usando do Comando Restore
 )
